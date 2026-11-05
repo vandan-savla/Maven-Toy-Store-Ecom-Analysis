@@ -91,9 +91,7 @@ direction in Model view. Avoid ambiguous date paths.
 -   **Order Refund Rate:** Distinct orders with at least one refunded
     item divided by total orders. This is not an RTO rate.
 
-See `Documentation/DAX_Measures.md` for starter DAX and
-`Documentation/Project_Documentation.md` for assumptions, methodology,
-validation and limitations.
+See `Documentation/DAX_Measures.md` for starter DAX calculations
 
 ## How to use
 
